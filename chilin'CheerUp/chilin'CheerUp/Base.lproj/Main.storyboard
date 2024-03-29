@@ -50,13 +50,13 @@
         <!--New View Controller-->
         <scene sceneID="zYS-7h-n3y">
             <objects>
-                <viewController id="tjf-Wz-j7j" customClass="NewViewController" customModule="chilin_CheerUp" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="tjf-Wz-j7j" customClass="NewViewController" customModule="chilin_CheerUp" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="Upm-W8-Hqu">
                         <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="26n-lJ-Ofv">
-                                <rect key="frame" x="159" y="244" width="75" height="35"/>
+                                <rect key="frame" x="159" y="141" width="75" height="35"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Button"/>
                                 <buttonConfiguration key="configuration" style="plain" title="Button"/>

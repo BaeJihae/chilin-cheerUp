@@ -14,7 +14,7 @@
 		2E8335152BB6B45700944373 /* chilin_CheerUp.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 2E8335132BB6B45700944373 /* chilin_CheerUp.xcdatamodeld */; };
 		2E8335172BB6B45900944373 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2E8335162BB6B45900944373 /* Assets.xcassets */; };
 		2E83351A2BB6B45900944373 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 2E8335192BB6B45900944373 /* Base */; };
-		6A1E3DF72BB6D262000E766D /* NewViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A1E3DF62BB6D262000E766D /* NewViewController.swift */; };
+		6A1E3DF72BB6D262000E766D /* YujinViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A1E3DF62BB6D262000E766D /* YujinViewController.swift */; };
 		7820FFAC2BB6CE2B00ED56B5 /* ahyeonVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7820FFAB2BB6CE2B00ED56B5 /* ahyeonVC.swift */; };
 /* End PBXBuildFile section */
 
@@ -28,7 +28,7 @@
 		2E8335162BB6B45900944373 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2E8335192BB6B45900944373 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2E83351B2BB6B45900944373 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		6A1E3DF62BB6D262000E766D /* NewViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = NewViewController.swift; path = "../../../../../../../Library/Mobile Documents/.Trash/chilin-cheerUp/chilin'CheerUp/chilin'CheerUp/NewViewController.swift"; sourceTree = "<group>"; };
+		6A1E3DF62BB6D262000E766D /* YujinViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = YujinViewController.swift; path = "../../../../../../../Library/Mobile Documents/.Trash/chilin-cheerUp/chilin'CheerUp/chilin'CheerUp/YujinViewController.swift"; sourceTree = "<group>"; };
 		7820FFAB2BB6CE2B00ED56B5 /* ahyeonVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ahyeonVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -66,12 +66,12 @@
 				2E83350A2BB6B45700944373 /* AppDelegate.swift */,
 				2E83350C2BB6B45700944373 /* SceneDelegate.swift */,
 				2E83350E2BB6B45700944373 /* ViewController.swift */,
+				6A1E3DF62BB6D262000E766D /* YujinViewController.swift */,
 				2E8335102BB6B45700944373 /* Main.storyboard */,
 				2E8335162BB6B45900944373 /* Assets.xcassets */,
 				2E8335182BB6B45900944373 /* LaunchScreen.storyboard */,
 				2E83351B2BB6B45900944373 /* Info.plist */,
 				2E8335132BB6B45700944373 /* chilin_CheerUp.xcdatamodeld */,
-				6A1E3DF62BB6D262000E766D /* NewViewController.swift */,
 			);
 			path = "chilin'CheerUp";
 			sourceTree = "<group>";
@@ -150,7 +150,7 @@
 				7820FFAC2BB6CE2B00ED56B5 /* ahyeonVC.swift in Sources */,
 				2E83350F2BB6B45700944373 /* ViewController.swift in Sources */,
 				2E8335152BB6B45700944373 /* chilin_CheerUp.xcdatamodeld in Sources */,
-				6A1E3DF72BB6D262000E766D /* NewViewController.swift in Sources */,
+				6A1E3DF72BB6D262000E766D /* YujinViewController.swift in Sources */,
 				2E83350B2BB6B45700944373 /* AppDelegate.swift in Sources */,
 				2E83350D2BB6B45700944373 /* SceneDelegate.swift in Sources */,
 			);
